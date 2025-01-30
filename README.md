@@ -15,7 +15,7 @@ class SimpleCalculater implements Calculater {
 }
     @Override
     public double subtract(double a,double b) {
-        return a+b;
+        return a-b;
     }
     @Override
     public double multiply(double a,double b) {
